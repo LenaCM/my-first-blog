@@ -25,7 +25,7 @@ SECRET_KEY = '!k2xr5jhg0^@lmjo2=kb2+1b12oiez7c&2njs%ef#4cu94%ltz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lena1196.pythonanyware.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
